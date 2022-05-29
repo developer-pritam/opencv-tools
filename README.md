@@ -38,6 +38,16 @@ OR
 $ python -m pip install -r requirements.txt
 ```
 
+
+## Features / Tools
+
+- Volume Controller with Hand Guesture
+- Brightness Controller with Hand Guesture
+- Mouse Controller with Hand Guesture
+- QR Code Scanner
+
+
+
 ## Usage :
 
 <p align="center">
