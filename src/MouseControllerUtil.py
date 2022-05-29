@@ -12,7 +12,7 @@ def start():
     ##########################
     wCam, hCam = 640, 480  # Frame Size
     frameR = 100 # Frame Reduction
-    smoothening = 10
+    smoothening = 10 
     #########################
 
 

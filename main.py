@@ -70,8 +70,16 @@ def main():
             pc.print("  \n> Press 'q' for exiting/quitting",style="bright_yellow")
             print(" ")
             vc.start()
-                
-          
+                                                                                                                           
+            commands = {
+            'ls': Commands,
+            'help': Commands,
+            'clear': clear,
+            'quit': quit,
+            'exit': _out,
+            'back' : main,
+            'main' : main
+            }
 
             while True:
                 print(" ")
