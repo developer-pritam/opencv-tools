@@ -84,6 +84,11 @@ main: Go to main menu
 back: Back to mmain menu
 ```
 
+## Support
+For support, email developerpritam@gmail.com.
+
+
+
 ## Contribution :
 
 Every pull request with good and understandable code :) is welcomed.
