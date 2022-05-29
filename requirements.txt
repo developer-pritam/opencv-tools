@@ -1,0 +1,11 @@
+pyfiglet
+rich
+opencv-python
+mediapipe
+numpy
+time
+math
+pycaw
+pyzbar
+screen_brightness_control
+autopy
