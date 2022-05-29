@@ -48,6 +48,12 @@ $ python -m pip install -r requirements.txt
 
 
 
+## Tech Stack
+- Python
+- OpenCV
+- Media Pipe
+
+
 ## Usage :
 
 <p align="center">
