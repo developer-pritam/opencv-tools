@@ -15,13 +15,13 @@
 Clone the github repo
 
 ```
-$ git clone https://github.com/developer-pritam/opencv-tools.git
+git clone https://github.com/developer-pritam/opencv-tools.git
 ```
 
 Change Directory
 
 ```
-$ cd opencv-tools
+cd opencv-tools
 ```
 
 ### Requirements :
@@ -29,13 +29,13 @@ $ cd opencv-tools
 For requirements run following commands:
 
 ```
-$ python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 OR
 
 ```
-$ python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 
