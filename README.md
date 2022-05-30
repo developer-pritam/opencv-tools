@@ -15,7 +15,7 @@
 Clone the github repo
 
 ```
-$ git clone https://github.com/developer-pritam/opencv-tools.get
+$ git clone https://github.com/developer-pritam/opencv-tools.git
 ```
 
 Change Directory
